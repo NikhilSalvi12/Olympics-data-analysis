@@ -31,10 +31,8 @@ Bar Plot
 # Inference Drawn:-
 ![image](https://user-images.githubusercontent.com/78545675/138589139-8fe961f8-205d-4fb8-8a26-67b367cb5d4b.png)
 
-![image](https://user-images.githubusercontent.com/78545675/138589150-d58000c5-b452-4aa5-9875-bed189b22e16.png)
+![image](https://user-images.githubusercontent.com/78545675/138589188-eaa1889a-6b89-4e93-9789-7a6cf54a8302.png)
 
 ![image](https://user-images.githubusercontent.com/78545675/138589128-93d3de5c-06ac-4dc8-9db1-3ce33def81e8.png)
 
 ![image](https://user-images.githubusercontent.com/78545675/138589171-054a93b8-2f0e-40f2-b100-ba98f069ed74.png)
-
-
